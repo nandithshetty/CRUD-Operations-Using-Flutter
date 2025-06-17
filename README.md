@@ -1,23 +1,35 @@
 # CRUD Operations Using Flutter
 
-A simple Flutter application demonstrating CRUD (Create, Read, Update, Delete) operations with a clean and intuitive UI. This project is intended as a starting point for developers interested in learning how to implement basic database operations in a Flutter app.
+# 🔥 Flutter Firebase Auth + Firestore CRUD App
 
-## Features
+This Flutter application demonstrates Firebase Authentication (Sign Up, Sign In, Forgot Password, Logout) and basic CRUD operations using Firestore, with animated UI elements and colorful design.
 
-- Add new records (Create)
-- View and list existing records (Read)
-- Edit and update records (Update)
-- Remove records (Delete)
-- Clean, modern UI built with Flutter widgets
-- Uses a local database (such as Sqflite) for persistent storage
+##  Features
 
-## Getting Started
+-  Firebase Email/Password Authentication
+  - User Sign Up
+  - User Sign In
+  - Forgot Password with reset email
+  - Logout functionality
+
+-  Firestore Database CRUD
+  - Create, Read, Update, Delete user data
+  - Real-time Firestore integration
+  - Uses a fixed demo document (`demo-user`) for demo purposes
+
+-  UI
+  - Gradient backgrounds
+  - Animations (Fade + Slide for transitions)
+  - Custom styled text fields and buttons
+
+##  Getting Started
 
 ### Prerequisites
 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Dart SDK (usually included with Flutter)
-- An IDE like [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
+- Flutter SDK installed
+- Firebase project setup
+- Android/iOS emulator or physical device
+- Internet connection
 
 ### Installation
 
