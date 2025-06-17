@@ -1,16 +1,27 @@
-# firebase_eg
+# CRUD Operations Using Flutter
 
-A new Flutter project.
+A simple Flutter application demonstrating CRUD (Create, Read, Update, Delete) operations with a clean and intuitive UI. This project is intended as a starting point for developers interested in learning how to implement basic database operations in a Flutter app.
+
+## Features
+
+- Add new records (Create)
+- View and list existing records (Read)
+- Edit and update records (Update)
+- Remove records (Delete)
+- Clean, modern UI built with Flutter widgets
+- Uses a local database (such as Sqflite) for persistent storage
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK (usually included with Flutter)
+- An IDE like [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/nandithshetty/CRUD-Operations-Using-Flutter.git
+   cd CRUD-Operations-Using-Flutter
