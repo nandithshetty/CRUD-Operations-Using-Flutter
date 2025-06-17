@@ -4,18 +4,18 @@ This Flutter application demonstrates Firebase Authentication (Sign Up, Sign In,
 
 ##  Features
 
--  1.Firebase Email/Password Authentication
+ 1. Firebase Email/Password Authentication
   - User Sign Up
   - User Sign In
   - Forgot Password with reset email
   - Logout functionality
 
--  2.Firestore Database CRUD
+  2. Firestore Database CRUD
   - Create, Read, Update, Delete user data
   - Real-time Firestore integration
   - Uses a fixed demo document (`demo-user`) for demo purposes
 
--  3.UI
+  3. UI
   - Gradient backgrounds
   - Animations (Fade + Slide for transitions)
   - Custom styled text fields and buttons
