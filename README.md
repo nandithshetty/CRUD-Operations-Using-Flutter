@@ -1,5 +1,3 @@
-# CRUD Operations Using Flutter
-
 # 🔥 Flutter Firebase Auth + Firestore CRUD App
 
 This Flutter application demonstrates Firebase Authentication (Sign Up, Sign In, Forgot Password, Logout) and basic CRUD operations using Firestore, with animated UI elements and colorful design.
